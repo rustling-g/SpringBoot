@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d7b512-1530-4658-8723-49cfab746cb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="f9d7b512-1530-4658-8723-49cfab746cb0" name="Default Changelist" comment="springboot 学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +141,7 @@
       <workItem from="1607565246807" duration="11033000" />
       <workItem from="1607587148099" duration="4123000" />
       <workItem from="1607592818131" duration="1002000" />
-      <workItem from="1607594093574" duration="9318000" />
+      <workItem from="1607594093574" duration="10041000" />
     </task>
     <task id="LOCAL-00001" summary="springboot 学习">
       <created>1607599034353</created>
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607599034353</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="springboot 学习">
+      <created>1607664949886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607664949886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,14 +224,14 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="326" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1607596804624" />
-    <state x="99" y="25" key="CommitChangelistDialog2" timestamp="1607599033047">
+    <state x="99" y="25" key="CommitChangelistDialog2" timestamp="1607665013872">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="99" y="25" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1607599033047" />
-    <state x="506" y="313" key="Github.ShareDialog" timestamp="1607599247809">
+    <state x="99" y="25" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1607665013872" />
+    <state x="506" y="313" key="Github.ShareDialog" timestamp="1607665032800">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="506" y="313" key="Github.ShareDialog/0.25.1280.775@0.25.1280.775" timestamp="1607599247809" />
+    <state x="506" y="313" key="Github.ShareDialog/0.25.1280.775@0.25.1280.775" timestamp="1607665032800" />
     <state width="1238" height="187" key="GridCell.Tab.0.bottom" timestamp="1607609095054">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -263,6 +268,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="149" y="25" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1607588876022" />
+    <state x="240" y="149" key="Vcs.Push.Dialog.v2" timestamp="1607665178411">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="240" y="149" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1607665178411" />
     <state x="47" y="25" key="new project wizard" timestamp="1607598825967">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -271,5 +280,9 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1607597563881" />
+    <state x="478" y="207" key="svn.repositoryBrowser" timestamp="1607665050076">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="478" y="207" key="svn.repositoryBrowser/0.25.1280.775@0.25.1280.775" timestamp="1607665050076" />
   </component>
 </project>
