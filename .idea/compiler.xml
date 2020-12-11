@@ -6,16 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot_mybatis" />
+        <module name="datasource" />
+        <module name="springboot_jpa" />
         <module name="springboot-web" />
         <module name="demo" />
-        <module name="datasource" />
+        <module name="springboot_mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="datasource" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="springboot-web" target="1.8" />
+      <module name="springboot_jpa" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
       <module name="datasource" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="springboot-web" options="-parameters" />
+      <module name="springboot_jpa" options="-parameters" />
       <module name="springboot_mybatis" options="-parameters" />
     </option>
   </component>
