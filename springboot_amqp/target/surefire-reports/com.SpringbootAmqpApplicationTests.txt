@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.SpringbootAmqpApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.6 s <<< FAILURE! - in com.SpringbootAmqpApplicationTests
+receive  Time elapsed: 0.463 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.SpringbootAmqpApplicationTests.receive(SpringbootAmqpApplicationTests.java:30)
+

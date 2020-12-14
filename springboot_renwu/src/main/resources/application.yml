@@ -1,0 +1,10 @@
+spring:
+  mail:
+    username: qq邮箱地址
+    password: 授权码(非邮箱密码)
+    host: smtp.qq.com
+    properties:
+      mail:
+       smtp:
+        ssl:
+         enable: true

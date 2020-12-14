@@ -1,0 +1,4 @@
+com/SpringbootAmqpApplication.class
+com/domain/Book.class
+com/service/BookService.class
+com/config/MyAMQPConfig.class
