@@ -1,0 +1,6 @@
+dubbo:
+  application:
+    id: provider
+    name: provider
+  registry:
+    address: zookeeper://localhost:2181
