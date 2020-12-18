@@ -1,0 +1,5 @@
+com/mp_demo/bean/User.class
+com/mp_demo/MpDemoApplication.class
+com/mp_demo/handler/MyMetaObjectHandler.class
+com/mp_demo/mapper/UserMapper.class
+com/mp_demo/config/MpConfig.class
